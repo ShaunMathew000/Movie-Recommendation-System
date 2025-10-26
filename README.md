@@ -44,6 +44,6 @@ By combining collaborative filtering and content-based features within a deep le
 
 ## 🚀 Getting Started
 
-To run the PDISA model locally, run the Movie_Rec_System.ipynb file in the repository.
+To run this model , download Movie_Rec_System.ipynb file in the repository, open it in a notebook session and run.
 
 
